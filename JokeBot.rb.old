@@ -1,3 +1,5 @@
+# VISIT https://github.com/Dielerorn/jokebot FOR THE NEW VERSION
+
 # A Discord Jokebot that tells really bad jokes
 require 'discordrb'
 require 'colorize'
